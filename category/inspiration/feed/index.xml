@@ -65,7 +65,6 @@
 		<item>
 		<title>Halloween Bride</title>
 		<link>/halloween-bride/</link>
-					<comments>/halloween-bride/#comments</comments>
 		
 		<dc:creator><![CDATA[Sarah]]></dc:creator>
 		<pubDate>Fri, 29 Oct 2010 21:20:20 +0000</pubDate>
@@ -131,8 +130,6 @@
 <p><em>Bolero by </em><a href="http://www.etsy.com/shop/maryandangelika"><em>maryandangelika</em></a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/halloween-bride/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
 		
 		
 			</item>
